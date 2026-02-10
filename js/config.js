@@ -25,8 +25,9 @@ const API_SITES = {
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
-        adult: true
-    }
+        adult: true}
+    { name: "自定义源1", url: "https://example.com/api1" },
+    { name: "自定义源2", url: "https://example.com/api2" }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
