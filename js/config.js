@@ -26,7 +26,7 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true}
-    { name: "自定义源1", url: "https://example.com/api1" },
+    { name: "饭团影视", url: "https://www.fantuan.tv/api.php/provide/vod/" },
     { name: "自定义源2", url: "https://example.com/api2" }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
